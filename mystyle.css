@@ -30,6 +30,11 @@ h5 {
 	font: serif;
 	font-stretch: semi-expanded;
 }
+
+h3 {
+	color: yellow;
+	size:  27px;
+}
 /* variations */
 
 .btn.red {
