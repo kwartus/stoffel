@@ -26,6 +26,10 @@ color: darkred;
   color: white;
 }
 
+h5 {
+	font: serif;
+	font-stretch: semi-expanded;
+}
 /* variations */
 
 .btn.red {
