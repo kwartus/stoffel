@@ -12,3 +12,22 @@ color: darkred;
 	height: 400px;
 	width: 600px;
 }
+
+.btn {
+  padding: 2rem 4rem;
+  border: 2px var(--color, black);
+  background: transparent;
+  font-size: 0.6em;
+  border-radius: 2px;
+}
+.btn:hover {
+  cursor: pointer;
+  background: var(--color, black);
+  color: white;
+}
+
+/* variations */
+
+.btn.red {
+  border-color: red
+}
